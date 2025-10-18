@@ -51,9 +51,12 @@ Write the detailed procedure here
 <img width="1478" height="789" alt="full adder" src="https://github.com/user-attachments/assets/653bda07-eaa2-406c-a445-0d97b381c6c8" />
 
 
+<img width="1567" height="831" alt="Screenshot 2025-10-18 211431" src="https://github.com/user-attachments/assets/0d676590-b7cb-4e6c-a549-058cbfcc1266" />
+
 **Output Timing Waveform**
 <img width="1478" height="782" alt="full adder waveform" src="https://github.com/user-attachments/assets/54996473-5857-45e3-b50b-8ab9c6b2e04d" />
 
+<img width="1580" height="834" alt="Screenshot 2025-10-18 211640" src="https://github.com/user-attachments/assets/9378293c-372a-4d72-9327-de6ee36dd48c" />
 
 **Result:**
 
