@@ -48,8 +48,10 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+![full adder ex 4](https://github.com/user-attachments/assets/357182e6-a23f-427e-b477-b907a86a693a)
 
 **Output Timing Waveform**
+![Uploading full adder ex 4 waveform.jpg…]()
 
 **Result:**
 
